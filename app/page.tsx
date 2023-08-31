@@ -11,7 +11,7 @@ export default function Home() {
 
 
 
-        <div className=' flex  items-center justify-center h-[60vh] '>
+        <div className=' flex  items-center justify-center h-[60vh]  '>
           <div className=''>
           <AnimateScroll/>
 
